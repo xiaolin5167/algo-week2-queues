@@ -1,6 +1,6 @@
 /******************************************************************************
- *  Compilation:  javac Deque.java
- *  Execution:  java Deque < testFiles/deque.txt
+ *  Compilation:  javac -cp ../.lift/algs4.jar;. Deque.java
+ *  Execution:  java -cp ../.lift/algs4.jar;. Deque < testFiles/tinyTale.txt
  *  Dependencies: StdIn.java StdOut.java
  *
  ******************************************************************************/

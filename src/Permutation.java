@@ -1,6 +1,6 @@
 /******************************************************************************
- *  Compilation:  javac Permutation.java
- *  Execution:  java Permutation 3 < testFiles/distinct.txt
+ *  Compilation:  javac -cp ../.lift/algs4.jar;. Permutation.java
+ *  Execution:  java -cp ../.lift/algs4.jar;. Permutation 3 < testFiles/distinct.txt
  *  Dependencies: StdIn.java StdOut.java
  *
  ******************************************************************************/

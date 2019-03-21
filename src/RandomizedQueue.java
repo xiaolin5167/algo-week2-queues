@@ -1,6 +1,6 @@
 /******************************************************************************
- *  Compilation:  javac RandomizedQueue.java
- *  Execution:  java RandomizedQueue < testFiles/randque.txt
+ *  Compilation:  javac -cp ../.lift/algs4.jar;. RandomizedQueue.java
+ *  Execution:  java -cp ../.lift/algs4.jar;. RandomizedQueue < testFiles/duplicates.txt
  *  Dependencies: StdIn.java StdOut.java StdRandom.java
  *
  ******************************************************************************/
